@@ -1,4 +1,4 @@
-# Dreaded5
+# Kanambo
 
 English version of wabot-aq
 
