@@ -69,6 +69,7 @@ module.exports = {
           if (!('sDemote' in chat)) chat.sDemote = ''
           if (!('delete' in chat)) chat.delete = true
           if (!('antiLink' in chat)) chat.antiLink = false
+          if (!('simi' in chat)) chat.simi = false
           if (!('viewonce' in chat)) chat.viewonce = false
         } else global.db.data.chats[m.chat] = {
           isBanned: false,
@@ -80,8 +81,8 @@ module.exports = {
           sDemote: '',
           delete: true,
           antiLink: false,
+          simi: false,
           viewonce: false,
-          restrict: true
         }
       } catch (e) {
         console.error(e)
@@ -394,15 +395,15 @@ To turn off this feature, type
 
 global.dfail = (type, m, conn) => {
   let msg = {
-    rowner: '*OWNER* only!',
-    owner: '*OWNER* Only!',
+    rowner: 'This command can only be used by *OWNER* !',
+    owner: 'This command can only be used by *Bot Owner* !',
     mods: 'This command can only be used by *Moderator* !',
     premium: 'This command is only for *Premium Members* !',
     group: 'This command can only be used in groups !',
     private: 'This command can only be used in Private Chat !',
-    admin: '*Group Admins* only. You are just a member! 🤐',
-    botAdmin: 'Bot is not *Admin* !',
-    unreg: 'Please register to use this feature by typing:\n\n*#register name.age*\n\nExample: *#register Fortunne.21*'
+    admin: 'This command is only for *Group Admin* !',
+    botAdmin: 'Make bot as *Admin* to use this command !',
+    unreg: 'Please register to use this feature by typing:\n\n*#register name.age*\n\nExample: *#register David.21*'
   }[type]
   if (msg) return m.reply(msg)
 }

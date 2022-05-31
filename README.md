@@ -1,10 +1,17 @@
-# Dreaded5
+# Kanambo 
 
 English version of wabot-aq
 
 Don't forget to give it a star  🌟
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fortunatusmokaya/dreadedbot)
+I am peter oyugi odongo am happy to be a student but am aiming higher than this so God will keep on leading me
+Any info: whatsapp here 👇 http://wa.me//+25414148625
+👈 Just tap the link 
+Am a 🇰🇪
+
+Another regards to my lovely queen Rael oyugi much love my queen 👑 for all the support you have made and the trust i love you 😘 so much 💋💕 You gave the time i needed to do this
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kanambp/dreadedbot)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -14,7 +21,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/itsajaygaur/tokio-wabot
+git clone https://github.com/kanambp/tokio-wabot
 cd tokio-wabot
 npm install
 npm update
@@ -41,7 +48,7 @@ apt update && apt full-upgrade
 apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev dbus-x11 ffmpeg2theora ffmpegfs ffmpegthumbnailer ffmpegthumbnailer-dbg ffmpegthumbs libavcodec-dev libavcodec-extra libavcodec-extra58 libavdevice-dev libavdevice58 libavfilter-dev libavfilter-extra libavfilter-extra7 libavformat-dev libavformat58 libavifile-0.7-bin libavifile-0.7-common libavifile-0.7c2 libavresample-dev libavresample4 libavutil-dev libavutil56 libpostproc-dev libpostproc55 graphicsmagick graphicsmagick-dbg graphicsmagick-imagemagick-compat graphicsmagick-libmagick-dev-compat groff imagemagick-6.q16hdri imagemagick-common libchart-gnuplot-perl libgraphics-magick-perl libgraphicsmagick++-q16-12 libgraphicsmagick++1-dev
 ```
 
----------
+--------
 
 [ INSTALLING NODEJS & TOKIO-WABOT ]
 
@@ -49,13 +56,13 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/itsajaygaur/tokio-wabot
+git clone https://github.com/kanambp/tokio-wabot
 cd tokio-wabot
 npm install
 npm update
 ```
 
----------
+--------
 
 ## FOR WINDOWS/VPS/RDP USER
 
@@ -164,7 +171,4 @@ conn.logger.level = 'debug'
 
 Don't forget to give it a star 🌟
 
-Best regards: dreaded5
-
-
-
+Best regards: Kanambo 💕
