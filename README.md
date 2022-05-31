@@ -4,6 +4,11 @@ English version of wabot-aq
 
 Don't forget to give it a star  🌟
 
+I am peter oyugi odongo am happy to be a student but am aiming higher than this so God will keep on leading me
+Any info: whatsapp here 👉 http://wa.me//+25414148625
+👈 Just tap the link 
+Am a 🇰🇪
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fortunatusmokaya/dreadedbot)
 
 ## FOR TERMUX/UBUNTU/SSH USER
@@ -167,7 +172,4 @@ Don't forget to give it a star 🌟
 Best regards: Kanambo 💕
 
 
-I am peter oyugi odongo am happy to be a student but am aiming higher than this so God will keep on leading me
-Any info: whatsapp here 👉 http://wa.me//+25414148625
-👈 Just tap the link 
-Am a 🇰🇪
+
