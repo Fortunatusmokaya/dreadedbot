@@ -168,6 +168,6 @@ Best regards: Kanambo 💕
 
 
 I am peter oyugi odongo am happy to be a student but am aiming higher than this so God will keep on leading me
-Any info: whatsapp here 👉 wa.me//+254114148625
+Any info: whatsapp here 👉 http://wa.me//+25414148625
 👈 Just tap the link 
 Am a 🇰🇪
