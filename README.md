@@ -1,4 +1,4 @@
-# Kanambo 💕
+# Kanambo 
 
 English version of wabot-aq
 
