@@ -9,7 +9,9 @@ Any info: whatsapp here 👇 http://wa.me//+25414148625
 👈 Just tap the link 
 Am a 🇰🇪
 
-Another regards to my lovely queen Rael oyugi much love my queen 👑 for all the support you have made and the trust i love you 😘 so much 💋💕
+Another regards to my lovely queen Rael oyugi much love my queen 👑 for all the support you have made and the trust i love you 😘 so much 💋💕 You gave the time i needed to do this
+
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kanambp/dreadedbot)
 
 ## FOR TERMUX/UBUNTU/SSH USER
