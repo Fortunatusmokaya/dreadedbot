@@ -164,7 +164,11 @@ conn.logger.level = 'debug'
 
 Don't forget to give it a star 🌟
 
-Best regards: dreaded5
+Best regards: Kanambo bot
+
+I am peter oyugi odongo am still a learner 🙏🙏 thanks be to the Almighty God
+Am humble 
+
 
 
 
