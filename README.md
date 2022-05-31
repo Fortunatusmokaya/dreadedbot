@@ -1,4 +1,4 @@
-# Dreaded5
+# Kanambo 💕
 
 English version of wabot-aq
 
@@ -164,7 +164,10 @@ conn.logger.level = 'debug'
 
 Don't forget to give it a star 🌟
 
-Best regards: dreaded5
+Best regards: Kanambo 💕
 
 
-
+I am peter oyugi odongo am happy to be a student but am aiming higher than this so God will keep on leading me
+Any info: whatsapp here 👉 wa.me//+254114148625
+👈 Just tap the link 
+Am a 🇰🇪
