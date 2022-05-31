@@ -1,7 +1,7 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['254114018035'] // Put your number here
+global.owner = ['254114148625'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -28,8 +28,8 @@ global.APIKeys = { // APIKey Here
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = 'Dreaded Bot'
-  var sticker_author = 'Fortunatus 🦄'
+  var sticker_name = 'Kanambo bot'
+  var sticker_author = 'Kanambo 🦄'
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
