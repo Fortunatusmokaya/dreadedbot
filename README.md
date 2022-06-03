@@ -21,8 +21,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/kanambp/tokio-wabot
-cd tokio-wabot
+git clone https://github.com/kanambp/dreadedbot
+cd dreadedbot
 npm install
 npm update
 ```
